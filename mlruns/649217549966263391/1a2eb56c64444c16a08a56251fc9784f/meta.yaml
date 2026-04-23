@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Advance_project/bayesian-stock-forecasting/mlruns/649217549966263391/1a2eb56c64444c16a08a56251fc9784f/artifacts
+end_time: 1776929475103
+entry_point_name: ''
+experiment_id: '649217549966263391'
+lifecycle_stage: active
+run_id: 1a2eb56c64444c16a08a56251fc9784f
+run_name: sarima_RELIANCE
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776929475009
+status: 3
+tags: []
+user_id: dines

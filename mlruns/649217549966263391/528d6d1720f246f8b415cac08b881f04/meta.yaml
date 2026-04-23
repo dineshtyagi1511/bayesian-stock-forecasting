@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Advance_project/bayesian-stock-forecasting/mlruns/649217549966263391/528d6d1720f246f8b415cac08b881f04/artifacts
+end_time: 1776929271585
+entry_point_name: ''
+experiment_id: '649217549966263391'
+lifecycle_stage: active
+run_id: 528d6d1720f246f8b415cac08b881f04
+run_name: ensemble_RELIANCE
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776929271504
+status: 3
+tags: []
+user_id: dines

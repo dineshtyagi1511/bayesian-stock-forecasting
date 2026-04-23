@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Advance_project/bayesian-stock-forecasting/mlruns/649217549966263391/baf47e36263b443da406bc6ea8fbaa77/artifacts
+end_time: 1776929042629
+entry_point_name: ''
+experiment_id: '649217549966263391'
+lifecycle_stage: active
+run_id: baf47e36263b443da406bc6ea8fbaa77
+run_name: registration_xgboost_NIFTY50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776929042444
+status: 3
+tags: []
+user_id: dines

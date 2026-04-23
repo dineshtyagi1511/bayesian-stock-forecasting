@@ -1,0 +1,8 @@
+artifact_location: file:///D:/Advance_project/bayesian-stock-forecasting/mlruns/649217549966263391
+creation_time: 1776926317697
+experiment_id: '649217549966263391'
+last_update_time: 1776926317697
+lifecycle_stage: active
+name: bayesian-stock-forecasting-api
+trace_location: null
+workspace: default
